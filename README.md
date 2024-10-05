@@ -1,4 +1,7 @@
-## Hi there 👋
+-📚 Estudante do 1°ano do Ensino Médio 
+-🎮Uso esse espaço para armazenar projetos 
+-Entre em contato comigo por: marcelino.maiara@escola.pr.gov.br
+
 
 <!--
 **maiaragabriele/maiaragabriele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
